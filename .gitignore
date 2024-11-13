@@ -9,3 +9,6 @@ pub_publish.bat
 
 build/
 .vscode/settings.json
+
+# FVM Version Cache
+.fvm/
